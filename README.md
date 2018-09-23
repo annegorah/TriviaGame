@@ -2,6 +2,7 @@
 Here you'll find a trivia game in spanish based on the classic game called "Maratón".
 
 Details:
+
     The trivia is multiple choice.
     
     The player will have 30 secs to answer each question.
